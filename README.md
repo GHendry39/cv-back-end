@@ -1,10 +1,10 @@
-# Cloud Resume Challenge Front-End
+# Cloud Resume Challenge Back-End
 
 ![alt text](image.png)
 
 ## Summary
 
-The Cloud Resume Challenge is a guided project to generate a resume webpage hosted in the cloud using cloud resources and development best practices. It comes in 3 flavours - AWS, Azure, and Google. The challenge is to build a static webpage and then add a back-end to store a count of visitors that can be displayed on the page.This repository contains the front-end code.
+The Cloud Resume Challenge is a guided project to generate a resume webpage hosted in the cloud using cloud resources and development best practices. It comes in 3 flavours - AWS, Azure, and Google. The challenge is to build a static webpage and then add a back-end to store a count of visitors that can be displayed on the page.This repository contains the backend code for the website.
 
 ## Architecture
 
